@@ -3,3 +3,5 @@
 Conversion the text typed into different cases like Camel Case, Pascal Case, Snake Case etc.
 
 ![name conversion image](image/Name_Conversion.png)
+
+[Live Site Preview](https://the-name-conversion.netlify.app/)
